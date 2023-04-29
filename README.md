@@ -1,8 +1,24 @@
-# God-Mode++
-这里是 `God-Mode++` 的开源仓库。我们使用 *GPLv3* 协议，引用代码时 **请标注原作者**。
+# 介绍 God Mode ++
+ - God Mode ++ 制作者 Panda Chen 感谢您的使用!
+ - 自豪使用 易语言制作😎 
+# ❤用爱发电❤
+ - 用爱发电,永久免费,长期更新。
+## 了解项目 の Github
+ - [github.com/pandachen1/god-mode-](https://github.com/PandaChen1/God-Mode-)是 God Mode ++ 的源码获取链接。
+ - [github.com/pandachen1/god-mode-/releases](https://github.com/PandaChen1/God-Mode-/releases)是 God Mode ++ 的发行Tags。
+ - 通过 Github Repositories 进行存储
+ - 如果你要安装，请执行下列指令(点击可复制)
+```
+git clone git@github.com:PandaChen1/God-Mode-.git
+```
+# ⚠注意⚠
+God Mode ++ 是**开源项目**，遵守`GPL3`协议，任何人可以使用其源码，但是必须标注源码来源和开发者。  
+# ✎ 征求意见，完善God Mode ++
+ - God Mode ++ 广泛征求建议与指导，你的反馈对我们很重要。  
+如果你有任何意见，可以通过`Fork`的方式来`push`你的代码。我们会注意到你的fork，并通过新建`branch`的方式上传你的代码。当然，你也可以把代码申请上传到`main`或**加入我们的Github开发组**
 
-# 这是什么软件？
-`God-Mode++` 由易语言编写，它可以**帮助您更使用快捷的方式来完成复杂的操作**。God-Mode++使用我们自研的 `GM+Safe` 保证您的电脑安全
+# 开发人员一览
+ - [Panda Chen](https://github.com/PandaChen1/) *程序编写*
+ - [LAGSNES](https://github.com/lagsnes/) *文档编写*
 
-# 它有什么用？
-它可以快速帮您打开软件，亦或是更改电脑选项。我们正在添加新的功能，敬请期待。
+◔ 生为民，不谋利。
