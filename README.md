@@ -26,6 +26,6 @@ God Mode ++ 是开源项目，任何人可以使用其源码，但是必须标�
 
 # 开发人员一览
  - [Panda Chen](https://github.com/PandaChen1/) *程序编写*
- - [SNES](https://github.com/snesqwq/) *文档编写*
+ - [SNES](https://github.com/lagqwq/) *文档编写*
 
 ◔ 生为民，不谋利。
