@@ -25,7 +25,7 @@ God Mode ++ 是开源项目，任何人可以使用其源码，但是必须标�
 如果你有任何意见，可以通过`Fork`的方式来`push`你的代码。我们会注意到你的fork，并通过新建`branch`的方式上传你的代码。当然，你也可以把代码申请上传到`main`或**加入我们的Github开发组**
 
 # 开发人员一览
- - [Panda Chen](https://github.com/PandaChen1/) *程序编写*
- - [SNES](https://github.com/lagqwq/) *文档编写*
+ - [Panda Chen](https://github.com/PandaChen1/) *原作者(创始人)、程序编写*
+ - [SNES](https://github.com/lagqwq/) *程序编写、文档编写*
 
 ◔ 生为民，不谋利。
