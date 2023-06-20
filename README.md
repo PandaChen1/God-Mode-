@@ -1,5 +1,5 @@
 # 下一代 God Mode ++
-God-Mode++已被废弃，此仓库将会归档。我们转移开发新的控制面板`NEO-Control`。请[移步至新仓库](https://github.com/PaC-Software/NEO-Control)
+God-Mode++已被废弃，此仓库将会归档。我们转移开发新的控制面板`NEO-Control`。请[移步至新仓库](https://github.com/PaC-Software/NEO-Control)，谢谢！
 # 介绍 God Mode ++
  - God Mode ++ 制作者 Panda Chen 感谢您的使用!
  - 自豪使用 易语言制作😎 
